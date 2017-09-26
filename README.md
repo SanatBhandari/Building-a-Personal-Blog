@@ -73,13 +73,13 @@ I use Dash, an online tool for learning to build web-applications as projects, t
   
   <article>
     <h2>Heading 1</h2>
-    <p> #The Content of the the first article goes here# </p>
+    <p> The Content of the the first article goes here </p>
     <button>Like</button>
   </article>
   
   <article>
     <h2>Heading 2</h2>
-    <p> #The Content of the second article goes here# </p>
+    <p> The Content of the second article goes here </p>
     <button>Like</button>
   </article>
   
