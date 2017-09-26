@@ -8,7 +8,7 @@ I use Dash, an online tool for learning to build web-applications as projects, t
     
     header{
       text-align: center;
-      background: url('https://wallpapersafari.com/w/kTdK52');
+      background: url('http://www.planwallpaper.com/static/images/3d_Creative_guitar_desktop_wallpaper_TUZQIme.jpg');
       background-size: cover;
       color: white;
       }
