@@ -64,9 +64,9 @@ I use Dash, an online tool for learning to build web-applications as projects, t
     <h1>Sanat's Blog</h1>
     
     <ul>
-      <li><a href="#">About Me</li>
-      <li><a href="#">My Thoughts</li>
-      <li><a href="#">My Life</li>
+      <li>About Me</li>
+      <li>My Thoughts</li>
+      <li>My Life</li>
     </ul>
     
   </header>
